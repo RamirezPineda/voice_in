@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       routes: Routes.getRoutes(),
       initialRoute: Routes.home,
       theme: ThemeData(useMaterial3: true).copyWith(
-        // primaryColor: const Color(0xffc3703e),
+        // primaryColor: const Color(0xFFEEF0EF),
         appBarTheme: const AppBarTheme(
             // elevation: 0,
             // backgroundColor: Colors.transparent,
